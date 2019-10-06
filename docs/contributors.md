@@ -75,3 +75,5 @@ and Applied Math and Cognitive Science.
 **Angie Chen**: Sophomore at Martel studying Computer Science. I enjoy running, playing piano, and watching Survivor.
 
 **Kyle Manning**: Junior at Duncan studying Statistics and Economics.
+
+**Fayiz Faruk**: Freshman at Duncan studying Biochem and Data Science.
